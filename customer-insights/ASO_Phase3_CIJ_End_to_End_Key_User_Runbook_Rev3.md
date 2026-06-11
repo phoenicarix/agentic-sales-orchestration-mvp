@@ -1,9 +1,8 @@
 
 ---
-title: "Agentic Sales Orchestrator — Phase 3 Customer Insights - Journeys End-to-End Key User Runbook"
-subtitle: "Enterprise customer-facing implementation and training lab guide"
-author: "Dr Dynamics — CE edition"
-date: "2026-06-11"
+"Agentic Sales Orchestrator — Phase 3 Customer Insights - Journeys End-to-End Key User Runbook"
+"Enterprise customer-facing implementation and training lab guide"
+"2026-06-11"
 ---
 
 # Document control
